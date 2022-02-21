@@ -113,6 +113,10 @@ Yes, you can always revert to the original drivers and BIOS.
 
 I provide it for free, the use of this program is the decision of the user. I don't see a SCAM opportunity here. If you decide that it doesn't work for you, you don't need to use it.
 
+<b>Can i use other miner than lolminer?</b>
+
+You can use any miner for Nvidia GPU
+
 # Contact
 Developer telegram: https://t.me/LHRUnlocker
 
